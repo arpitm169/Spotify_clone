@@ -31,21 +31,21 @@ The application is built using modern frontend tools and follows a component-bas
 ---
 
 ## Project Structure
+
+```bash
 spotify-clone/
-│
 ├── public/
 ├── src/
-│ ├── components/
-│ ├── assets/
-│ ├── App.jsx
-│ ├── main.jsx
-│
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
 ├── index.html
 ├── package.json
 └── README.md
+```
 
-
-The application entry point is defined in `index.html`, which loads the React app via `main.jsx`. :contentReference[oaicite:0]{index=0}
+The application entry point is defined in `index.html`, which loads the React app via `main.jsx`.
 
 ---
 
