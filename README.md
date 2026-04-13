@@ -1,4 +1,4 @@
-# Spotify Clone (React)
+# Spotify Clone 
 
 ## Overview
 
