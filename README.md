@@ -66,4 +66,4 @@ Search functionality
 Backend integration for user data
 
 ![image alt](https://github.com/arpitm169/Spotify_clone/blob/6fb45c82ed8fc8b1a7a9ece6703e472abaecdafa/Screenshot%202026-06-11%20234322.png)
-!(image alt]()
+![image alt](https://github.com/arpitm169/Spotify_clone/blob/af4ce9e45cf8abd659cc40de2fb092cfc91cdc03/Screenshot%202026-06-11%20234355.png)
